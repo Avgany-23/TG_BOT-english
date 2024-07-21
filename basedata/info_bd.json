@@ -1,0 +1,9 @@
+{
+     "postgreSQL": {
+          "bd": "postgresql",
+          "login": "postgres",
+          "password": "1234",
+          "name_bd": "testbot_two"
+     },
+     "token_bot": "7421066388:AAE1G3Xgf3YGPI28zGQIHO3mLoDadp9-xwM"
+}
