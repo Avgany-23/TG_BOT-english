@@ -1,9 +1,9 @@
 {
      "postgreSQL": {
           "bd": "postgresql",
-          "login": "postgres",
-          "password": "1234",
-          "name_bd": "testbot_two"
+          "login": "логин от БД",
+          "password": "пароль от БД",
+          "name_bd": "имя БД"
      },
-     "token_bot": "7421066388:AAE1G3Xgf3YGPI28zGQIHO3mLoDadp9-xwM"
+     "token_bot": "токен от тг бота"
 }
